@@ -1,0 +1,8 @@
+{
+  "appId": "com.gurujiapp.app",
+  "appName": "guruji classes",
+  "webDir": "out",
+  "server": {
+    "androidScheme": "https"
+  }
+}

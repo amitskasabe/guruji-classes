@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">guruji classes</string>
+    <string name="title_activity_main">guruji classes</string>
+    <string name="package_name">com.gurujiapp.app</string>
+    <string name="custom_url_scheme">com.gurujiapp.app</string>
+</resources>
